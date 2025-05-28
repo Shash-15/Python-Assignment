@@ -1,4 +1,4 @@
-# data Visualization in Python
+# Data Visualization in Python
 TITLE: An Object-Oriented Approach to Data Matching and Visualization Using SQLAlchemy, Pandas, and Bokeh
 
 ## 🚀 Project Overview
