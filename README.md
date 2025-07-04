@@ -52,3 +52,6 @@ Basic unit tests can be added using the unittest module to check function output
   -Training and ideal functions plotted using Bokeh.
   -Test points shown with deviations to the ideal functions.
   -Hover tool and color-coded markers for better interpretation.
+  
+  ![Screenshot 2025-07-04 225513](https://github.com/user-attachments/assets/16255a34-12dd-4833-af25-948bbe2d32f3)
+
