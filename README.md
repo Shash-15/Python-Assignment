@@ -53,5 +53,18 @@ Basic unit tests can be added using the unittest module to check function output
   -Test points shown with deviations to the ideal functions.
   -Hover tool and color-coded markers for better interpretation.
   
+  4 ideal functions 
+  Y1
+  ![Screenshot 2025-07-04 225449](https://github.com/user-attachments/assets/c952e5f5-c4d0-4c7b-8335-bac61b00dcda)
+
+  Y2
   ![Screenshot 2025-07-04 225513](https://github.com/user-attachments/assets/16255a34-12dd-4833-af25-948bbe2d32f3)
+
+  Y3
+  ![Screenshot 2025-07-04 225526](https://github.com/user-attachments/assets/d54b816e-152d-43a4-9823-0b5ecd15981d)
+
+  Y4
+  ![Screenshot 2025-07-04 225541](https://github.com/user-attachments/assets/bf5c6c58-2be1-49b0-a5ab-9179979bd69d)
+
+
 
